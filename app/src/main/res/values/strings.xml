@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Course Logger</string>
+    <string name="edit_text_title">Title</string>
+    <string name="edit_text_number">Number</string>
+    <string name="button_fragment_save">Save</string>
+    <string name="button_fragment_cancel">Cancel</string>
+    <string name="textview_course_name">Course name</string>
+    <string name="button_course_delete">Delete</string>
+
+</resources>
